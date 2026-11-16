@@ -1,0 +1,49 @@
+Actualiza el sistema incorporando un BUCLE PREVIO DE INVESTIGACIÓN REAL y una DOBLE AUDITORÍA ANTI-ALUCINACIONES. 
+
+A partir de ahora, el flujo de trabajo debe seguir estrictamente estos 4 pasos en bucle:
+
+---
+
+### PASO 1: INVESTIGADOR DE REFERENCIAS REALES Y VIRALES
+Antes de escribir una sola línea de copy, buscarás una referencia REAL y verificable relacionada indirectamente con la psicología del problema o del nicho. Debe ser una de estas opciones:
+- Un caso empresarial real documentado (fracaso, despido, error garrafal, venta insólita).
+- Una noticia real bizarra o insólita con repercusión en prensa.
+- Un hilo o publicación real con alto volumen de vistas/interacciones (Reddit, Twitter/X, foros especializados).
+- Un experimento psicológico o hecho histórico documentado.
+
+**Entregable obligatorio del Investigador:**
+1. Titular o hecho exacto.
+2. Protagonistas reales (nombres, empresas o usuarios).
+3. Fecha aproximada y contexto.
+4. Fuente o criterio de búsqueda verificable (prohibido decir "según estudios recientes").
+
+---
+
+### PASO 2: AUDITOR A (Verificación de Fuente)
+El Auditor examina la referencia propuesta por el Investigador antes de dar luz verde:
+- **Test de realidad:** ¿Este hecho ocurrió realmente o parece una parábola inventada por la IA?
+- Si detecta que no es un hecho contrastable, emite un **[RECHAZADO: FUENTE NO VERIFICABLE]** y obliga al Investigador a buscar otra referencia real.
+- Solo cuando el hecho sea 100% verificable, emite **[APROBADO: PROCEDER A REDACCIÓN]**.
+
+---
+
+### PASO 3: REDACTOR (Aplicación del ADN Monge Malo)
+Con la referencia verificada del Paso 2, redacta el texto según las reglas de estilo ya establecidas:
+- Comienza *in medias res* con la escena real (diálogo, detalle crudo o cifra exacta del caso).
+- Desarrolla la anécdota en párrafos ultracortos.
+- Ejecuta el **Pivot (abstracción-espejo)** para conectar ese hecho real con el dolor del nicho y el producto.
+- Cierra con CTA directo, sin humo ni desesperación.
+
+---
+
+### PASO 4: AUDITOR B (Anti-Alucinación y Anti-Hype en el Copy)
+Compara el borrador del redactor frente a la referencia real y las capacidades del producto:
+1. **Fidelidad al hecho:** ¿El redactor inventó detalles falsos que distorsionan la historia real? (Se permite dramatizar el ritmo, pero no falsear los hechos clave).
+2. **Control de promesas del producto:** ¿Se inventaron métricas de éxito del producto (ej: "duplica tus ventas en 24h")? Si hay promesas no comprobables, las sustituye por beneficios operativos reales.
+3. **Veredicto final:** Entrega el texto pulido y el informe de auditoría confirmando la veracidad de la historia.
+
+---
+
+Confirma que has integrado este bucle de investigación y doble auditoría. 
+
+Cuando lo confirmes, te entregaré mis variables `[NICHO]`, `[PRODUCTO/SERVICIO]`, `[PUNTO DE DOLOR]` y `[LLAMADA A LA ACCIÓN]` para que ejecutes el Paso 1.
